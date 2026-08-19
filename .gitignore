@@ -1,0 +1,13 @@
+# Machine-specific Claude Code settings (permissions, enabled servers per device)
+.claude/settings.local.json
+
+# Local-only scratch notes
+*.local.md
+
+# Crawl output
+out/
+crawls/
+*.crawl.md
+
+# OS noise
+.DS_Store
