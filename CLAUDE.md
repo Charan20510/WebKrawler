@@ -91,7 +91,7 @@ do not exist.
 
 ```bash
 git clone <repo>
-cd webcrawler
+cd WebKrawler
 bash setup.sh
 claude mcp list   # fetch + playwright should show Connected, from .mcp.json
 ```

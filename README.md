@@ -1,4 +1,4 @@
-# webcrawler
+# WebKrawler
 
 Free, fully-local web ingest stack for Claude Code — no API keys, no paid services.
 See `CLAUDE.md` for the full routing rules and `utils.md` for a daily-use cheatsheet.
@@ -7,7 +7,7 @@ See `CLAUDE.md` for the full routing rules and `utils.md` for a daily-use cheats
 
 ```bash
 git clone <this-repo>
-cd webcrawler
+cd WebKrawler
 bash setup.sh
 claude mcp list   # fetch + playwright should show Connected
 ```
